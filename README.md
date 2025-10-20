@@ -30,8 +30,15 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+![exp5 1](https://github.com/user-attachments/assets/ccdc9f7c-7658-488b-ad00-3bbec13f0548)
+![exp5 3](https://github.com/user-attachments/assets/e4f12952-0c51-44e5-9826-fdfc0fa1fad7)
+
+
 
 V-I & REGULATION CHARACTERISTICS:
+![exp5 2](https://github.com/user-attachments/assets/51bd878e-7a9c-42a8-9782-777aa00626b6)
+![exp5 4a](https://github.com/user-attachments/assets/8d7aad0f-ec8f-4255-aa60-edc808a60673)
+
 
 PRECAUTIONS:
 
